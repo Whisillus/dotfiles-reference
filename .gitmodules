@@ -14,3 +14,7 @@
 	path = repo/tilelang
 	url = git@github.com:Whisillus/tilelang.git
 	branch = main
+[submodule "repo/TileRT"]
+	path = repo/TileRT
+	url = https://github.com/tile-ai/TileRT.git
+	branch = main
