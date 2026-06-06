@@ -18,3 +18,11 @@
 	path = repo/TileRT
 	url = https://github.com/tile-ai/TileRT.git
 	branch = main
+[submodule "repo/CuAssembler"]
+	path = repo/CuAssembler
+	url = https://github.com/cloudcores/CuAssembler.git
+	branch = master
+[submodule "repo/sass-king"]
+	path = repo/sass-king
+	url = https://github.com/florianmattana/sass-king.git
+	branch = main
