@@ -1,0 +1,16 @@
+[submodule "repo/cutlass"]
+	path = repo/cutlass
+	url = https://github.com/NVIDIA/cutlass.git
+	branch = main
+[submodule "repo/flash-attention"]
+	path = repo/flash-attention
+	url = https://github.com/Dao-AILab/flash-attention.git
+	branch = main
+[submodule "repo/FlashMLA"]
+	path = repo/FlashMLA
+	url = https://github.com/deepseek-ai/FlashMLA.git
+	branch = main
+[submodule "repo/tilelang"]
+	path = repo/tilelang
+	url = git@github.com:Whisillus/tilelang.git
+	branch = main
