@@ -26,3 +26,7 @@
 	path = repo/sass-king
 	url = https://github.com/florianmattana/sass-king.git
 	branch = main
+[submodule "repo/flashinfer"]
+	path = repo/flashinfer
+	url = https://github.com/flashinfer-ai/flashinfer.git
+	branch = main
