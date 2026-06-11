@@ -30,3 +30,6 @@
 	path = repo/flashinfer
 	url = https://github.com/flashinfer-ai/flashinfer.git
 	branch = main
+[submodule "repo/gpu-benches"]
+	path = repo/gpu-benches
+	url = https://github.com/RRZE-HPC/gpu-benches
