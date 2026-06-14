@@ -36,7 +36,7 @@
 	path = repo/TransformerEngine
 	url = https://github.com/NVIDIA/TransformerEngine.git
 	branch = main
-[submodule "repo/tiny-gpu"]
-	path = repo/tiny-gpu
-	url = https://github.com/adam-maj/tiny-gpu.git
+[submodule "repo/vortex"]
+	path = repo/vortex
+	url = https://github.com/vortexgpgpu/vortex.git
 	branch = master
