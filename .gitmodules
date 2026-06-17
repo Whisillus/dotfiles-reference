@@ -40,3 +40,11 @@
 	path = repo/vortex
 	url = https://github.com/vortexgpgpu/vortex.git
 	branch = master
+[submodule "repo/DeepGEMM"]
+	path = repo/DeepGEMM
+	url = https://github.com/deepseek-ai/DeepGEMM.git
+	branch = main
+[submodule "repo/DeepEP"]
+	path = repo/DeepEP
+	url = https://github.com/deepseek-ai/DeepEP.git
+	branch = main
