@@ -20,6 +20,9 @@
 - `repo/DeepEP`: DeepSeek expert-parallel communication kernels; inspect runtime code, tests, and dispatch/configuration notes.
 - `repo/flashinfer`: FlashInfer kernels and runtime support; inspect local files before citing APIs because the checkout may lag upstream.
 - `repo/SageAttention`: SageAttention CUDA attention kernels; inspect source, kernels, setup metadata, and docs for implementation details.
+- `repo/MSA`: MiniMax SM100 dense and sparse attention kernels; inspect the csrc JIT, CuTe DSL, sparse top-k, and paged low-precision paths.
+- `repo/FlashKDA`: CUTLASS-based Kimi Delta Attention kernels for SM90+; inspect kernel code, architecture notes, FLA integration, and tests.
+- `repo/flash-linear-attention`: Linear/sparse attention, state-space, and hybrid sequence-model kernels; follow its nested `AGENTS.md` and repo-local skills.
 - `repo/TransformerEngine`: PyTorch/JAX/C++ FP8, MXFP8, and NVFP4 transformer kernels; inspect source, docs, env-var docs, and QA scripts for behavior.
 - `repo/TileRT`: Public TileRT reference tree; inspect docs and examples, but do not build it in this workspace.
 - `repo/CuAssembler`: Python CUDA assembly tooling; inspect parsers, assemblers, tests, and docs; `hnvcc` is Linux-only.

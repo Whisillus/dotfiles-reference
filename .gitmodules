@@ -56,3 +56,15 @@
 	path = repo/SageAttention
 	url = https://github.com/thu-ml/SageAttention.git
 	branch = main
+[submodule "repo/MSA"]
+	path = repo/MSA
+	url = https://github.com/MiniMax-AI/MSA.git
+	branch = main
+[submodule "repo/FlashKDA"]
+	path = repo/FlashKDA
+	url = https://github.com/MoonshotAI/FlashKDA.git
+	branch = master
+[submodule "repo/flash-linear-attention"]
+	path = repo/flash-linear-attention
+	url = https://github.com/fla-org/flash-linear-attention.git
+	branch = main
