@@ -48,3 +48,11 @@
 	path = repo/DeepEP
 	url = https://github.com/deepseek-ai/DeepEP.git
 	branch = main
+[submodule "repo/cuda_micro_bench"]
+	path = repo/cuda_micro_bench
+	url = https://github.com/qq332982511/cuda_micro_bench.git
+	branch = master
+[submodule "repo/SageAttention"]
+	path = repo/SageAttention
+	url = https://github.com/thu-ml/SageAttention.git
+	branch = main
