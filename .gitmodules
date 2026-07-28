@@ -68,3 +68,7 @@
 	path = repo/flash-linear-attention
 	url = https://github.com/fla-org/flash-linear-attention.git
 	branch = main
+[submodule "repo/cuLA"]
+	path = repo/cuLA
+	url = https://github.com/InclusionAI/cuLA.git
+	branch = main
