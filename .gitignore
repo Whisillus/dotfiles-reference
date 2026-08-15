@@ -1,2 +1,5 @@
 # OS metadata
 .DS_Store
+
+# Local assistant state
+.cogrex.md
