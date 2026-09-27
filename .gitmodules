@@ -72,3 +72,11 @@
 	path = repo/cuLA
 	url = https://github.com/InclusionAI/cuLA.git
 	branch = main
+[submodule "repo/miles"]
+	path = repo/miles
+	url = https://github.com/radixark/miles.git
+	branch = main
+[submodule "repo/DeepSpec"]
+	path = repo/DeepSpec
+	url = https://github.com/deepseek-ai/DeepSpec.git
+	branch = main
