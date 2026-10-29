@@ -80,3 +80,23 @@
 	path = repo/nccl
 	url = https://github.com/NVIDIA/nccl.git
 	branch = master
+[submodule "repo/sglang"]
+	path = repo/sglang
+	url = https://github.com/sgl-project/sglang.git
+	branch = main
+[submodule "repo/qlib"]
+	path = repo/qlib
+	url = https://github.com/microsoft/qlib.git
+	branch = main
+[submodule "repo/Lean"]
+	path = repo/Lean
+	url = https://github.com/QuantConnect/Lean.git
+	branch = master
+[submodule "repo/nautilus_trader"]
+	path = repo/nautilus_trader
+	url = https://github.com/nautechsystems/nautilus_trader.git
+	branch = master
+[submodule "repo/DeepInfer"]
+	path = repo/DeepInfer
+	url = https://github.com/deepseek-ai/DeepInfer.git
+	branch = main
