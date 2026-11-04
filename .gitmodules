@@ -100,3 +100,11 @@
 	path = repo/DeepInfer
 	url = https://github.com/deepseek-ai/DeepInfer.git
 	branch = main
+[submodule "repo/microbench-blackwell"]
+	path = repo/microbench-blackwell
+	url = https://github.com/SemiAnalysisAI/microbench-blackwell.git
+	branch = master
+[submodule "repo/InferenceX"]
+	path = repo/InferenceX
+	url = https://github.com/SemiAnalysisAI/InferenceX.git
+	branch = main
